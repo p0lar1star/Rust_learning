@@ -1,2 +1,4 @@
 # Rust_learning
- Network Rubbish
+入门时生产的网络垃圾
+
+可能会在未来的某一天突然具有了纪念意义(x
