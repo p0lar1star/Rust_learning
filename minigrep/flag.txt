@@ -1,0 +1,7 @@
+flag{you_are_right!}
+1234
+flag{another_line}
+1234567890
+flag{1234}
+flag{12}
+FLAG{!@#$}
